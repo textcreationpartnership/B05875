@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Robert Holmes his bonefire: or, The Dutch doomsday.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05875</idno>
+            <idno type="STC">Wing S3886</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[66]</idno>
+            <idno type="EEBO-CITATION">99886887</idno>
+            <idno type="PROQUEST">ocm99886887</idno>
+            <idno type="VID">181396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181396)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[67])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Robert Holmes his bonefire: or, The Dutch doomsday.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "VVhere are those boasting Boors, what are their names?".</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>"Licensed, August 18. 1666."</note>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holmes, Robert, --  Sir, 1622-1692 --  Early works to 1800.</term>
+               <term>Political poetry, English --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181396:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>Sir ROBERT HOLMES HIS BONEFIRE: OR, THE DUTCH DOOMSDAY.</head>
+            <lg>
+               <l>WHere are thoſe boaſting <hi>Boors,</hi> what are their names?</l>
+               <l>That ſwore they blockt us up i'th River <hi>Thames?</hi>
+               </l>
+               <l>Brave, were it done; I muſt confeſs the <hi>Hogan</hi>
+               </l>
+               <l>Was very willing, but he wanted <hi>Mogan.</hi>
+               </l>
+               <l>Are they not impudent, proudly to bid</l>
+               <l>The World believe the thing they never did?</l>
+               <l>They are beholden to their valiant Lungs,</l>
+               <l>If they can block up Kingdoms with their Tongues;</l>
+               <l>For this atchievement they have brought to paſs,</l>
+               <l>Like <hi>Sampſon</hi> with the jaw-bone of an Aſs.</l>
+               <l>But having wak't the <hi>Engliſh</hi> Lyon, they</l>
+               <l>Who were his Enemies, are now his pray.</l>
+               <l>Brag's a good Dog; The <hi>Dutch</hi> I can compare</l>
+               <l>To nothing, but an Armie in the Air;</l>
+               <l>Where they look terrible, but take no prize,</l>
+               <l>And only Combate our deluded eyes:</l>
+               <l>They talk they routed us, and they gave <hi>Thanks,</hi>
+               </l>
+               <l>For what? becauſe we had not cut their Banks.</l>
+               <l>If beaten they give thanks, the men I ſwear,</l>
+               <l>Under correction very thankful are:</l>
+               <l>So a great company, once, when time was,</l>
+               <l>Were routed by the <hi>Bear</hi> and <hi>Hudibras:</hi>
+               </l>
+               <l>We mov'd but, and theſe apparitions ſound,</l>
+               <l>Like <hi>Quixots</hi> Wind-Mills, ſwiſtly tacking round.</l>
+               <l>Soon as they ſaw the <hi>Engliſh</hi> made up? they</l>
+               <l>Progreſs'd like Crabs, the clean contrary way.</l>
+               <l>Who then 'has cauſe to boaſt, the World may ſee,</l>
+               <l>They are our ſhadows, follow and they flee?</l>
+               <l>Hence I conclude, who e're I come among,</l>
+               <l>The loweſt ſpirits have the loudeſt tongue.</l>
+               <l>Now Sea-ſick Soveraigns, would not mercy be,</l>
+               <l>In your diſtreſs, a ſoveraign remedie?</l>
+               <l>Where are the <hi>Engliſh</hi> now? why they are truly,</l>
+               <l>If I be not miſtaken, at the Vly;</l>
+               <l>VVhere they are imitating the flames of <hi>Troy,</hi>
+               </l>
+               <l>And making Bonefires of their Towns for joy:</l>
+               <l>VVhere once again, as well my Author notes,</l>
+               <l>VVe fought their Admirals with Fiſher-boats.</l>
+               <l>Where by croſs fate their fortunes did expire,</l>
+               <l>Not (as they fear'd) by water, but by fire.</l>
+               <l>VVhilſt we were giving Thanks to Heaven, we found</l>
+               <l>Our former victory with a ſecond crown'd.</l>
+               <l>And thereupon we had, and well we might,</l>
+               <l>Thankſgiving-day, and a Thankſgiving night.</l>
+               <l>Our Streets were thick with Bonefires large and tall,</l>
+               <l>But <hi>Holmes</hi> one Bonefire made, was worth'em all.</l>
+               <l>VVell done Sir <hi>Robert,</hi> bravely done I ſwear,</l>
+               <l>VVhilſt we made Bonefires here, you made'em there.</l>
+               <l>There was no Bonefire money beg'd with you,</l>
+               <l>if you want Faggots, youl make Frigats do.</l>
+               <l>You fir'd their Fleet? an hundred ſixty odd,</l>
+               <l>In their own Harbour too; bleſſed be God.</l>
+               <l>VVhen Pitch and Tarr, and all their wealthy ſtuff,</l>
+               <l>VVas on a flame, ſure they were warm enuff.</l>
+               <l>This was your VVater-work, but to come nigher,</l>
+               <l>You ſet your foot aſhore, their Towns a fire:</l>
+               <l>And nobly let a thouſand houſes burn,</l>
+               <l>To light you to a ſafe and brave return,</l>
+               <l>Not a lame fortune, but it got a prop,</l>
+               <l>For every Cabin was a Gold-ſmiths Shop:</l>
+               <l>The bold adventurers ſuch booty gat,</l>
+               <l>No Sea-man but he drank in his own Plate,</l>
+               <l>God and our Generals we thank, for even</l>
+               <l>Through th' Alm of Fleſh, we ſee the Arm of Heaven</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Licenſed, <hi>Auguſt 18. 1666.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
